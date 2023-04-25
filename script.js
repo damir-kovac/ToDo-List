@@ -31,7 +31,7 @@ class Todo {
                 </div>
                 <button type="button" id="deleteButton" class="button">Clear current lists</button>
                 <div>
-                    <p>Memory:</p>
+                    <h4>Memory:</h4>
                     <button type="button" id="saveButton" class="button">Save list</button>
                     <button type="button" id="clearSavedListButton" class="button">Delete saved list</button>
                 </div>

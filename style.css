@@ -85,7 +85,7 @@ span{
     font-weight: bold;
     height: 25px;
     width: 100%;
-    /* display: block; */
+    margin-bottom: 5px;
 }
 
 @media (max-width: 1050px){
